@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UUIDs", "UUIDs.vcxproj", "{70527328-DCEC-4BA7-9958-B5BC3E48CE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Debug|x64.ActiveCfg = Debug|x64
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Debug|x64.Build.0 = Debug|x64
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Debug|x86.ActiveCfg = Debug|Win32
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Debug|x86.Build.0 = Debug|Win32
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Release|x64.ActiveCfg = Release|x64
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Release|x64.Build.0 = Release|x64
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Release|x86.ActiveCfg = Release|Win32
+		{70527328-DCEC-4BA7-9958-B5BC3E48CE99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806A7F57-2693-4B23-9C28-84878B8D4277}
+	EndGlobalSection
+EndGlobal
