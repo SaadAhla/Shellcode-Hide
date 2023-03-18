@@ -1,4 +1,3 @@
-// credits : @SEKTOR7	Module stomping, Module Unhooking, No New Thread, Function obfuscation
 #include <winsock2.h>
 #include <ws2tcpip.h>
 #include <Windows.h>
